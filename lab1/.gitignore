@@ -1,0 +1,6 @@
+go.work
+go.work.sum
+/lab1_2
+/bin/
+/dist/
+.idea/
